@@ -5,3 +5,10 @@ C:\ostrikov30-09\mytest\mytest\obj\Debug\mytest.csprojAssemblyReference.cache
 C:\ostrikov30-09\mytest\mytest\obj\Debug\mytest.csproj.CoreCompileInputs.cache
 C:\ostrikov30-09\mytest\mytest\obj\Debug\mytest.exe
 C:\ostrikov30-09\mytest\mytest\obj\Debug\mytest.pdb
+C:\ostrikov30-09\test30092019\mytest\mytest\bin\Debug\mytest.exe.config
+C:\ostrikov30-09\test30092019\mytest\mytest\bin\Debug\mytest.exe
+C:\ostrikov30-09\test30092019\mytest\mytest\bin\Debug\mytest.pdb
+C:\ostrikov30-09\test30092019\mytest\mytest\obj\Debug\mytest.csprojAssemblyReference.cache
+C:\ostrikov30-09\test30092019\mytest\mytest\obj\Debug\mytest.csproj.CoreCompileInputs.cache
+C:\ostrikov30-09\test30092019\mytest\mytest\obj\Debug\mytest.exe
+C:\ostrikov30-09\test30092019\mytest\mytest\obj\Debug\mytest.pdb
